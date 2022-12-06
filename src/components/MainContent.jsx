@@ -6,6 +6,7 @@ function MainContent() {
 
   // My tests
   // Another comments
+  // Some comment
 
   const [helpVisible, setHelpVisible] = useState(false);
 
