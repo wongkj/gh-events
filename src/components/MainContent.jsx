@@ -5,6 +5,7 @@ import HelpArea from './HelpArea';
 function MainContent() {
 
   // My tests
+  // Another comment
 
   const [helpVisible, setHelpVisible] = useState(false);
 
